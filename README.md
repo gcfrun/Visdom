@@ -1,1 +1,1 @@
-# Visdom
+这是Pytorch中的可视化工具Visdom，里面包含需要下载的脚本，拷贝到Pytorch环境中的lib/python2.7/site-packages/下就可以直接使用它了。
